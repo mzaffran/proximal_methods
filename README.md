@@ -14,10 +14,10 @@ The following Julia packages are necessary in order to run the notebooks of this
 
 ## References
 
-```proximal_gradient.ipynb``` is an extended and completed version of this [notebook](https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp1.ipynb).
+```proximal_gradient.ipynb``` is an extended and completed version of this [notebook](https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp1.ipynb). It contains an implementation of the proximal gradient algorithm and the accelerated proximal gradient algorithm.
 
 ```cutting_plane_bundle_methods.ipynb```is an extended and completed version of this [notebook]
-(https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp2.ipynb).
+(https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp2.ipynb). It contains an implementation of the cutting plane algorithm and the bundle algorithm.
 
 ```diabetes``` comes from [this webpage](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/), and more precisely can be downloaded [here](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/diabetes).
 
