@@ -10,7 +10,7 @@ The following Julia packages are necessary in order to run the notebooks of this
 - PyPlot
 - GZip
 - CodecBzip2
-- CPLEX (if not, you should modify in consequence ```cutting_plane_bundle_methods.ipynb```)
+- CPLEX (if not, you should modify in consequence ```cutting_plane_bundle_methods.ipynb``` to use OSQP instead)
 
 ## References
 
