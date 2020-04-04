@@ -16,8 +16,7 @@ The following Julia packages are necessary in order to run the notebooks of this
 
 ```proximal_gradient.ipynb``` is an extended and completed version of this [notebook](https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp1.ipynb).
 
-```cutting_plane_bundle_methods.ipynb``` is an extended and completed version of this [notebook]
-(https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp2.ipynb).
+```cutting_plane_bundle_methods.ipynb``` is an extended and completed version of this [notebook](https://perso.ensta-paris.fr/~pcarpent/SOD314/TPs/tp2.ipynb).
 
 ```diabetes``` comes from [this webpage](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/), and more precisely can be downloaded [here](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/diabetes).
 
